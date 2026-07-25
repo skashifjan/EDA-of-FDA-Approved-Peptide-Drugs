@@ -15,12 +15,16 @@ This project performs an exploratory data analysis (EDA) and  trend analysis of 
 
 <img width="470" height="231" alt="image" src="https://github.com/user-attachments/assets/7efd4fc3-7a53-4f77-843c-c403d101679d" />
 <img width="624" height="465" alt="image" src="https://github.com/user-attachments/assets/887b41ce-e78b-4210-b45b-e7bc0aa45f7e" />
+
+
 The overall trend of numbers of applied peptide drugs to FDA from 2015 to 2025.
+
+
 
 <img width="494" height="266" alt="image" src="https://github.com/user-attachments/assets/b80d5bf7-3832-4b01-904d-a17def7a3f34" />
 
 
-Conclusion
+#Conclusion
 
 1.the steady growth of FDA approved peptide therapeutics, with noticeable acceleration in last decade. This trend indicates increasing demand of novel large molecule therapeutics
 2.Sponsor analysis suggests Moderate market concentration, Top market competitors are Genentech Inc, Amgen Inc, Jnassen Biotech,Samsung Bioepis Co Ltd.
