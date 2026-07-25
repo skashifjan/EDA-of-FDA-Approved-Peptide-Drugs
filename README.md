@@ -29,6 +29,9 @@ The overall trend of numbers of applied peptide drugs to FDA from 2015 to 2025.
 #Conclusion
 
 1.the steady growth of FDA approved peptide therapeutics, with noticeable acceleration in last decade. This trend indicates increasing demand of novel large molecule therapeutics
+
 2.Sponsor analysis suggests Moderate market concentration, Top market competitors are Genentech Inc, Amgen Inc, Jnassen Biotech,Samsung Bioepis Co Ltd.
+
 3.Formulation analysis confirms that injectable dosage forms overwhelmingly dominate FDA-approved peptide drugs.This highlights the persistent challenges associated with oral peptide delivery, including enzymatic degradation and low bioavailability.
+
 4.The top 10 sponsors from 2015 to 2025 have over half of the peptide drugs, a 0.5% discontinuation rate, and an annual approval rate of 26 products.
